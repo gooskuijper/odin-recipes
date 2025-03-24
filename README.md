@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple project where I practiced some basic HTML in the form of a recipe list. At the end I forgot to even commit things while I was creating new files so this is definitely something I need to remind myself of.
